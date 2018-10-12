@@ -1,52 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on phdjsep</title>
+    <title>Tags on footgolf collective</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on phdjsep</description>
+    <description>Recent content in Tags on footgolf collective</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Sep Dadsetan</copyright>
-    <lastBuildDate>Sun, 02 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Afgl</title>
-      <link>/tags/afgl/</link>
-      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/afgl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Footgolf</title>
-      <link>/tags/footgolf/</link>
-      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/footgolf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>World Tour</title>
-      <link>/tags/world-tour/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/world-tour/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

@@ -1,1 +1,1 @@
-options(blogdown.ext = ".Rmd", blogdown.author = "Sep Dadsetan")
+options(blogdown.ext = ".Rmd", blogdown.author = "FG Collective")

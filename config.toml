@@ -1,20 +1,20 @@
 baseurl = "/"
-title = "phdjsep"
+title = "footgolf collective"
 theme = "hyde"
 languageCode = "en-us"
 copyright = "Sep Dadsetan"
-disqusShortname = "phdjsep"
-googleAnalytics = "UA-16280498-1"
+disqusShortname = "fg-collective"
+googleAnalytics = ""
 enableEmoji = true
 paginate = 5
 
 [Params]
     custom_css = ["css/poole.css", "css/hyde.css", "css/social.css"]
-    description = "Data & Stuff"
-    github = "https://github.com/phdjsep"
-    linkedin = "https://linkedin.com/in/sepdadsetan/"
-    twitter = "https://twitter.com/phdjsep"
-    facebook = "https://facebook.com/phdjsep"
+    description = "Footgolf & Stuff"
+    # github = "https://github.com/phdjsep"
+    # linkedin = "https://linkedin.com/in/sepdadsetan/"
+    # twitter = "https://twitter.com/phdjsep"
+    # facebook = "https://facebook.com/phdjsep"
 
 [Permalinks]
     post = "/:year/:month/:day/:slug/"
