@@ -1,10 +1,12 @@
-+++
-title = "West Coast FG Club, 3 time champs!"
-author = "Jerad Heming"
-description = "United States FootGolf Club Championship 2018"
-layout = "page"
-date = "2018-10-12"
-+++
+---
+title: "West Coast FG Club, 3 time champs!"
+author: "Jerad Heming"
+date: 2018-10-12
+output: html_document
+categories: ["AFGL"]
+tags: ["afgl", "teams", "championships"]
+image: "img/west-coast-fgc.gif"
+---
 
 
 ## Origin story

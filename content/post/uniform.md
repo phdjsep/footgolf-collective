@@ -1,11 +1,12 @@
-+++
-title = "Uniform of The Sport"
-author = "Jerad Heming"
-description = "FootGolf's uniform code of conduct"
-layout = "page"
-date = "2018-10-12"
-+++
-
+---
+title: "Uniform of The Sport"
+author: "Jerad Heming"
+date: 2018-10-12
+output: html_document
+categories: ["Basics"]
+tags: ["afgl", "rules", "attire"]
+image: "img/attire.jpg"
+---
 
 ## Origin story
 Basketball, soccer, and football all are sports with uniforms, right?

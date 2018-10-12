@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>footgolf collective</title>
-    <link>/</link>
-    <description>Recent content on footgolf collective</description>
+    <title>Basics on footgolf collective</title>
+    <link>/categories/basics/</link>
+    <description>Recent content in Basics on footgolf collective</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Sep Dadsetan</copyright>
     <lastBuildDate>Fri, 12 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/basics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -31,25 +31,6 @@
       <description>Origin story Basketball, soccer, and football all are sports with uniforms, right?
 FootGolf is not a bit different. The only thing is you get to customize the jersey you wear, however you&amp;rsquo;d like. Instead of your coach forcing you to pick between #98 or #89 because they are the only two left in the gym closet.
 We call it the &amp;ldquo;dress code&amp;rdquo; but to be quite frank, it is no different than a personalized uniform.</description>
-    </item>
-    
-    <item>
-      <title>West Coast FG Club, 3 time champs!</title>
-      <link>/2018/10/12/west-coast-fg-club-3-time-champs/</link>
-      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/10/12/west-coast-fg-club-3-time-champs/</guid>
-      <description>Origin story There is nothing else more pleasurable than waking up the morning of competition day in a dreamy hotel. Nerves get the best of you&amp;hellip;or maybe it?s just the coffee. You have to sprint toward the loo. In your zen, 18 back to back eagles sink and all the podium glory is owed to you.
-West Coast FootGolf Club (WC) knows a little thing or two about back to back?</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/page/about/</guid>
-      <description> TBD </description>
     </item>
     
   </channel>
