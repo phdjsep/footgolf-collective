@@ -1,82 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on phdjsep</title>
+    <title>Posts on footgolf collective</title>
     <link>/post/</link>
-    <description>Recent content in Posts on phdjsep</description>
+    <description>Recent content in Posts on footgolf collective</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Sep Dadsetan</copyright>
-    <lastBuildDate>Sun, 02 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Magical Footgolf Challenge Round 1 Statistics</title>
-      <link>/2018/09/02/magical-footgolf-challenge-round-1-statistics/</link>
-      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
+      <title>Uniform of The Sport</title>
+      <link>/2018/10/12/uniform-of-the-sport/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/09/02/magical-footgolf-challenge-round-1-statistics/</guid>
-      <description>Summary Stats by Division Men   Overall Course Stats How were the scores distributed per round?   round  hole  par  avg.score  better  eagles  birdies  pars  bogeys  doubles  worse  par.avg      1  1  5  5.380  0  0  1  30  18  1  0  0.380    1  2  4  4.</description>
+      <guid>/2018/10/12/uniform-of-the-sport/</guid>
+      <description>Origin story Basketball, soccer, and football all are sports with uniforms, right?
+FootGolf is not a bit different. The only thing is you get to customize the jersey you wear, however you&amp;rsquo;d like. Instead of your coach forcing you to pick between #98 or #89 because they are the only two left in the gym closet.
+We call it the &amp;ldquo;dress code&amp;rdquo; but to be quite frank, it is no different than a personalized uniform.</description>
     </item>
     
     <item>
-      <title>U.S. Footgolf Nationals Course Statistics</title>
-      <link>/2018/08/31/u.s.-footgolf-nationals-course-statistics/</link>
-      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
+      <title>West Coast FG Club, 3 time champs!</title>
+      <link>/2018/10/12/west-coast-fg-club-3-time-champs/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/08/31/u.s.-footgolf-nationals-course-statistics/</guid>
-      <description>Summary Stats by Division Men How were the scores distributed per round?   round  hole  par  avg.score  better  eagles  birdies  pars  bogeys  doubles  worse  par.avg      1  1  5  4.800  0  2  23  34  9  2  0  -0.200    1  2  4  4.</description>
-    </item>
-    
-    <item>
-      <title>Tableau Dashboard for Mean Scores in FIFG Majors</title>
-      <link>/2018/07/18/tableau-dashboard-for-mean-scores-in-fifg-majors/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/07/18/tableau-dashboard-for-mean-scores-in-fifg-majors/</guid>
-      <description>  var divElement = document.getElementById(&#39;viz1531892575620&#39;); var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0]; vizElement.style.width=&#39;100%&#39;;vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;; var scriptElement = document.createElement(&#39;script&#39;); scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;; vizElement.parentNode.insertBefore(scriptElement, vizElement);   </description>
-    </item>
-    
-    <item>
-      <title>Comparing Majors</title>
-      <link>/2018/07/07/comparing-majors/</link>
-      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/07/07/comparing-majors/</guid>
-      <description>Background Footgolf is a new sport and there are a lot of things that are still being figured out. One such item is that courses aren’t rated like they are in golf. Rating requires a whole new level of experience that the sport just doesn’t have a whole lot of yet. Rating a course requires taking into account many different variables like slope, distance, obstacles, etc. You can read about it here from the PGA website.</description>
-    </item>
-    
-    <item>
-      <title>French Open</title>
-      <link>/2018/06/24/french-open/</link>
-      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/06/24/french-open/</guid>
-      <description>Overall Stats   hole  par  yds  avg.score  better  eagles  birdies  pars  bogeys  doubles  worse  par.avg      1  5  153  4.610  0  9  132  126  33  0  0  -0.390    2  4  164  3.763  0  3  103  164  23  6  1  -0.</description>
-    </item>
-    
-    <item>
-      <title>Capital Cup</title>
-      <link>/2018/06/23/capital-cup/</link>
-      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/06/23/capital-cup/</guid>
-      <description>Another Major, another analysis…
-This time I didn’t have the pleasure of being there, but it was fun to keep up from afar. I’ve pulled data and calculated the course statistics for the tournament. 
-Overall Stats Some interesting patterns emerge when calculating all the scores across all rounds.
- Holes 3, 7, 12, and 14 were the most difficult. Three of them were par 3’s and one par 4. Hole 6, 8, 10 were the easiest.</description>
-    </item>
-    
-    <item>
-      <title>US Open</title>
-      <link>/2018/05/03/us-open/</link>
-      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/05/03/us-open/</guid>
-      <description>Introduction The American FootGolf League (AFGL) and River Ridge Golf Course hosted the 2018 U.S. Open in Oxnard, CA on April 26th - 29th. The tournament saw players attend from all over the world for the first major of the FIFG World Tour. The course was very difficult as it was both long (~3600 yds), sloped, fast, and occassionally windy.
-I played in the tournament myself, albeit not well, and anecdotally found that certain holes were more troublesome than others, especially depending on time of day (ex, windy).</description>
+      <guid>/2018/10/12/west-coast-fg-club-3-time-champs/</guid>
+      <description>Origin story There is nothing else more pleasurable than waking up the morning of competition day in a dreamy hotel. Nerves get the best of you&amp;hellip;or maybe it?s just the coffee. You have to sprint toward the loo. In your zen, 18 back to back eagles sink and all the podium glory is owed to you.
+West Coast FootGolf Club (WC) knows a little thing or two about back to back?</description>
     </item>
     
   </channel>
