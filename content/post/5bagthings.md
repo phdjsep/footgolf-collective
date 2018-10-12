@@ -27,6 +27,6 @@ I get hangry. You get hangry. What is hangry? You get extra mad when you are hun
 1. Course Notes
 If you have the opportunity to take a practice round, take a notepad and pen. I Couldn't tell you how many times I see some guys all shoot one way off the tee and one guy boots the opposite and is the only one to eagle. Take good notes and take your time on practice day. On tournament day, trust you took good notes and follow them.
 
-What are some items you never forget to put in your bag whether it be for a round with friends or to take on the competition? Let us know in the comments!
+What are some items you never forget to put in your bag whether it be for a round with friends or to take on the competition? Let us know in the comments!!
 
 
