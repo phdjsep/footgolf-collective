@@ -56,9 +56,12 @@ Who are some of the people, whether it be FootGolf or traditional golf, that you
 I'm pretty positive Jordan and the rest of West Coast FootGolf Club plan to return and uphold the Club title in 2019. As of his feelings after winning the 2018 title? 
 "Such an  amazing experience. It is what we work towards all year. That is always the number one priority on our list of goals as a club." Tacking on "...this years (win) was even more meaningful after what unfolded last year and it was a special performance from the guys against our heated rivals Oakland FootGolf."
 
-West Coast FootGolf is the club to beat everyone!
-Will you be the club to knock them from the pedestal in 2019?
-Maybe get out and train!! I bet Jordan is. 
+ West Coast FootGolf is the club to beat everyone!  
+ Will you be the club to knock them from the pedestal in 2019?    
+ Maybe... 
+ get out and train!!
+ 
+ I bet Jordan is. 
 
 
 Please leave your thoughts and opinions below!
