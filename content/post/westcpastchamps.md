@@ -1,7 +1,7 @@
 ---
 title: "West Coast FG Club, 3 time champs!"
 author: "Jerad Heming"
-date: 2018-10-12
+date: Jerad Heming 2018-10-12
 output: html_document
 categories: ["AFGL"]
 tags: ["afgl", "teams", "championships"]
@@ -30,33 +30,39 @@ To be honest though, who are these guys?
 
 West Coasts FootGolf Clubs 2018 Roster:
 
-- Sharif Khatib
+- Sharif Khatib 
 - Ramzey Khatib
-- Jose Acevedo
+- Jose Acevedo 
 - Adam Ortiz
-- Jorge Vazquez
-- Michael Gora
-- Leilani Tedeski
-- Jo Reid
-- Jeremy Johnson
+- Jorge Vazquez 
+- Michael Gora 
+- Leilani Tedeski 
+- Jo Reid 
+- Jeremy Johnson 
 - Adrian Moreno
-- Nick Wallace
+- Nick Wallace 
 - Ken Fleck
-- Joey Miller
+- Joey Miller 
 - Robert Cohmanschi
 - Jordan Godfrey
 
 All of these names are easily recognizable throughout the FootGolf Community. Ladies and gentlemen, these footgolfers have been amongst the top of nearly every leaderboard in AFGL tour tournaments this year. No wonder they are three time champions!
 
-I asked Jordan (United States #1 ranked player of 2018) a little about his play, the game, and of course how it was to win the club title once again. He practices at multiple courses throughout California in order to stay in top condition and peak performance. With a soccer background and interest in recreational golf, Jordan stated I simply got hooked four years ago and decided I wanted to compete as much as I could.?. That?s exactly what he has done, and has done so with great success. 
+I asked Jordan (United States #1 ranked player of 2018) a little about his play, the game, and of course how it was to win the club title once again. He practices at multiple courses throughout California in order to stay in top condition and peak performance. With a soccer background and interest in recreational golf, Jordan stated "I simply got hooked four years ago and decided I wanted to compete as much as I could.". That's exactly what he has done, and has done so with great success. 
 
 Who are some of the people, whether it be FootGolf or traditional golf, that you look up to? 
- ?I love watching golf on the weekends and learning as much as I can about their game because it translates to our game. I have so much respect for the professionalism and etiquette on display by the players on tour. I want that to be applied to FootGolf and for it to also became another gentlemens game.
+ "I love watching golf on the weekends and learning as much as I can about their game because it translates to our game. I have so much respect for the professionalism and etiquette on display by the players on tour. I want that to be applied to FootGolf and for it to also became another gentlemens game"
 
-I'm pretty positive Jordan and the rest of West Coast FootGolf Club plan to return and uphold the Club title in 2019. As of his feelings after winning the 2018 title? ??such an  amazing experience. It is what we work towards all year. That is always the number one priority on our list of goals as a club.? Tacking on ?...this years (win) was even more meaningful after what unfolded last year and it was a special performance from the guys against our heated rivals Oakland FootGolf.
+I'm pretty positive Jordan and the rest of West Coast FootGolf Club plan to return and uphold the Club title in 2019. As of his feelings after winning the 2018 title? 
+"Such an  amazing experience. It is what we work towards all year. That is always the number one priority on our list of goals as a club." Tacking on "...this years (win) was even more meaningful after what unfolded last year and it was a special performance from the guys against our heated rivals Oakland FootGolf."
 
 West Coast FootGolf is the club to beat everyone!
 Will you be the club to knock them from the pedestal in 2019?
 Maybe get out and train!! I bet Jordan is. 
+
+
+Please leave your thoughts and opinions below!
+
+Author: Jerad Heming
 
 
