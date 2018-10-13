@@ -27,3 +27,8 @@ Socks have to be knee high, argyle style is the "in" style but not required.
 All in all, courses want you to play there and have a great time. Some need FootGolf to help with funds to provide a great course. Turning away traditional golfers is not what a course wants.
 
 Please, follow the uniform and have a great time kicking!
+
+
+Please leave comments or opinions below!
+
+Author: Jerad Heming
