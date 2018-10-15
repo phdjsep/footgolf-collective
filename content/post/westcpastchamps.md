@@ -1,7 +1,7 @@
 ---
 title: "West Coast FG Club, 3 time champs!"
 author: "Jerad Heming"
-date: Jerad Heming 2018-10-12
+date: 2018-10-12
 output: html_document
 categories: ["AFGL"]
 tags: ["afgl", "teams", "championships"]
