@@ -7,6 +7,7 @@ disqusShortname = "footgolfcollective"
 googleAnalytics = ""
 enableEmoji = true
 paginate = 5
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Params]
     custom_css = ["css/poole.css", "css/hyde.css", "css/social.css"]

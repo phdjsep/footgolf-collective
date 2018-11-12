@@ -1,0 +1,144 @@
+---
+title: As We Like It...
+author: John Cleary
+date: 2018-11-12
+slug: as-we-like-it
+output: html_document
+categories: ["Interviews", "Ireland"]
+tags: ["ireland", "motivation"]
+image: "img/ireland.jpg"
+---
+
+> No sooner met but I kicked,
+> No sooner kicked but I loved,
+> No sooner loved but I putted,
+> But I asked myself the reason,
+> No sooner I knew the reason but sought the birdie
+> and in this degree,have I made a par.
+>
+> - William Shakespeare (after his first round of Footgolf)
+
+
+**Love**...it’s a word that is used, abused, and overused.
+In my opinion it should only be uttered in relation to people you care about,
+with one notable exception...Footgolf.
+
+My wife calls my obsession with Footgolf, my mid-life crisis and I can’t argue with that.
+I find it hard to articulate and sometimes to even comprehend my passion for this wonderful game especially as I’m not particularly good, so who better to help me understand all this than the Founder and President of Footgolf Ireland and also the four Champions of Ireland to date.
+
+### Small Country, Big Talent.
+
+- The National Tour in Ireland was first played in 2015.
+- Gary Mullin was the Champion.
+- 2016 saw Ronan Lynagh take the title.
+- Cathal Jenkinson was crowned the Champion in 2017 and this year James Barry took
+the honours after the most comprehensive Tour so far.
+- Four years, four tours, four different Champions!!!!!!
+
+For such a small country, Ireland has a huge level of talent within it’s playing
+ranks. I am interested in how this came about and what encouraged these players to
+get involved in Footgolf as a competitive sport as opposed to just playing for fun.
+
+---
+
+**John Cleary (JC): To begin, tell me how you first heard about footgolf?**
+
+Ronan Cunningham (RC): At first I thought it was a joke, but a Dutch friend posted a video on social media of a few guys kicking a football around a golf course back in 2012. After a bit more digging, I uncovered a sport that was already growing a solid following on mainland Europe, and I immediately knew I needed to bring this sport to Ireland. 12 months later I would launch 'Footee', the first FootGolf course in Ireland in early 2013.
+
+Gary Mullin (GM): I first heard of FootGolf in 2014, it appeared on Facebook as a friend I had in the UK posted some photos on Facebook after a round he played. I Googled courses in Ireland and came across one in Westport, Mayo. One Saturday, myself and a friend travelled down and played two rounds and from there and then, I was hooked. 
+
+Cathal Jenkinson (CJ): I was living in south Dublin and had been hopping from golf course to golf course scratching out bogeys. I had also been playing football to a decent level for years. A modest course  opened up in the Dublin mountains and my housemate and I thought it could be a decent hybrid of two sports we were half decent at. So a pairs competition was on the horizon. We entered, got through each of the 5 knockout rounds and won the cash prize. I was hooked. My housemate retired unbeaten.
+
+James Barry (JB): Stephen Sawyer was in my house one day, about June 2015 and asked me to go play footgolf, I had never even heard of it even though there was a course only 2 miles from my house, I was instantly hooked!
+
+Ronan Lynagh (RL): I'm not sure to be honest, but I remember several trips out to Deer Park in Howth or Footee in Tallaght with mates, before I knew anything about the more formal, competitive side of things. Those early days were mainly about going for the pin from anywhere and everywhere, and I just really took to the game.  I noticed I was the one calling around mates to see who'd be about - and then on one trip to Footee in May of 2015 with my Canadian cousin (who probably had no interest in being there aside from the views of Dublin!) we were joined on our round by one of Footgolf Ireland's originals, Migs, who was working there at the time.  He could see my own interest and let me know about the first stage in the Road to Buenos Aires, which was taking place that weekend in Waterford.  I was in the Footee Carpark at 6.30am on the Saturday to travel down with Cathal and Ricky and never looked back.
+
+---
+
+**JC: What do you think made you want to play it as a competitive sport?**
+
+RC: For me it was a natural progression to found an Association for FootGolf and lay the foundations for a competitive sport for years to come. I was invited to a European competition in Spain in 2014 and I invited some regular players from Tallaght to form what would become the first national FootGolf team to compete abroad. The team finished 3rd.
+
+GM: I'm competitive by nature and it was a developing sport, I could see myself being at the forefront of growing the game here in Ireland. That's why in 2015, I also opened my own course in Cross, Co. Mayo which is on the border with Galway so I was able to bring the game to a lot of people in the Mayo/Galway region. Having a course to practice on day in and day out allowed me to fine-tune my skills.
+
+CJ: I've always been competitive at anything I've tried my hand at, probably a common theme among anyone in sport really. It helped that I had won that first tournament and got a taste for it. I soon progressed on to playing really excellent courses with challenging layouts in Deer Park, Howth and Highfield, Kildare and a whole world opened up. Off the back of that initial win, I participated in the old European FootGolf Federation stage in Spain. International competition was obviously a step up and it stoked the hunger in me to push myself to that level.
+
+JB: I’m a seriously competitive person so no matter what I’m playing, I’m playing to win! Footgolf is a game that tests everything in my opinion.. you need to be well prepared, stay injury free and most of all be so mentally strong. You need to be able to leave a bad hole behind you and move on and that is not an easy thing to do!
+
+RL: There was a couple of draws to it.  I'd played football at the top amateur level in Ireland for most of my teens and 20s and had played a lot of golf and pitch and putt too.  Saturday evenings growing up would often see me talking about a game I'd played that day with Dad telling me about his round of golf.  I'd even played a few rounds of golf where Footee now stood.  So I think in that sense there was just a natural fit.  But also, as I got more involved, I really enjoyed the group that was forming.  Lads from all over the country, all pretty new to this, and all capable of the most unreal shots in every sense in those early days!  Finally, there was an almost addictive challenge to the game - like getting through levels in a computer game.  I learned an awful lot about my own mentality then and how to build a round, how to cope with pressure when it came to the bigger competitions.  I'm still learning.  It's not a game you master easily, and the pitfalls are so easy to slip into that when you start to see your own progress and pick up some results, particularly with the talent around Ireland - it's just a really good buzz. Few like it.
+
+---
+
+**JC: When did you know you could compete with the best?**
+
+RC: The beauty about a burgeoning sport is that anyone can compete with the best, and the beauty about FootGolf is that it is one of the most inclusive sports of the modern era. After leading the team to 3rd in Spain, I knew that I had the ability to play, but putting that ability into focus each time you compete is a different matter.
+
+GM: The biggest moment here probably came at The 2015 Irish Open. I had a rough start to my competitive career in FootGolf, not really showing in any of the first few competitions I played. However, the Irish Open was my first major competition where some of the best players around Europe travelled over, including Lionel Jacot, David Mancino and Nick Iron. 
+
+I had a fantastic first day, hitting a -9 which included a hole in one and that put me in the final flight for the Sunday where I was lucky enough to be grouped with the 3 players above. Unfortunately, the Sunday didn't work out as well and I couldn't advance on my score and that opened the door for Chris Grace to come back. He tied with me overall on -9 but I beat him in the playoff. This was my biggest moment as I learnt so much from playing with the three players above and I got the confidence of beating Chris who was at the point, already the man to beat in Ireland that year. 
+
+It set me up for the rest of the year where I went on to win three of the last four events and become the first winner of the Irish Tour.
+
+CJ: I certainly didn't have any clear attribute in my game that made me a challenger. I’m not the most powerful, most skilful or most accurate but I do have good shot selection, calm temperament and probably most useful; I've a good putter in the bag. That EFGF event saw me come in 14th and joint top Irishman. I was raw and felt I would go on to improve, I joined the European Footgolf Tour the following season in 2015 and had some top 10s finishes. I created the first Irish National Tour to enable a team to get to the World Cup. I knew that if I could compete with the European guys( and I was 6th in the Irish rankings) then Team Ireland could cause upsets and from then on it really became more about team performances than individual performances for me.
+ 
+JB: 2 months after I started playing footgolf, we were told that we could travel to Cambridge to play in the UK open, this sounded too good to miss out on.. we were due to travel over early on Friday but due to certain circumstances I had to change flights and travel late Friday.. I ended up being out very early Saturday morning, no practice and feeling so far out of my depth.. as we were new to the game we had no idea of the quality of the better footballs so I played with a €4 ball and knew no different. Ended up shooting -11 and was sitting in 3rd position after day 1.. I was told that on day 2, I would be playing with Paul Oliver and Lionel Jacot,I had never heard of either of them, all I knew was they were European numbers 1 and 2 at the time so I felt the pressure of that..I ended up finishing 7th and took a lot from that, that experience really helped me improve as a player!
+
+RL: I had this frustrating habit early on of starting competitions slowly.  In two day competitions I would be likely to go out and hit a very average score littered with basic errors and some moments of quality, followed by a second round where I was just way more on the ball and could hit a best round of the day - like the UK Open in 2015 (R1: Level Par,R2: 9under) .   I qualified for the World Cup in 2016 on the back of some very mixed performances in the 2015 National League - and notably, without a win. I qualified in 8th out of the 13 spots available but towards the end of the year was starting to build some consistency and some of my first ever podiums towards the end.  The World Cup, a 3 day individual competition saw me hit a heartbreaking +10 on Day 1, but determined not to let it get me down, on Day 2 I regrouped and hit one of the best rounds of the whole tournament, -5.  It was enough to help me make the cut, and I'm pretty sure right then I knew I was really onto something good, and could compete with the best - and I was much clearer on where I needed to develop my game.  Seeing the progress from struggling to ironing out the errors when it mattered was a huge boost in my own confidence on the course.
+ 
+---
+
+**JC: What has been your best moment?**
+
+RC: My best moment was finishing 46th in the World Cup in Argentina back in 2016
+
+GM: The best moment in my own career is from the 2016 World Cup. It was a small thing but always stands out. As I was fortunate enough to be going into the final day as the last Irish player out, I was able to enjoy a small moment on either the 16th or 17th hole where I looked to my left and saw a small group of Irish lads (which are now some of my closest friends) and an Irish flag standing on the hill watching me play and willing me on to finish strong.
+
+CJ: Fortunately there's been a few. The Irish team finishing 2nd at the prestigious UK Open in 2016, beating every country except the hosts, that was excellent. Winning the Irish and Northern Irish Opens in 2017 was a personal highlight but seeing the lift and belief that gave to the Irish players was an incredible feeling. Watching Kev Heelan become the first Irish player to win an international EFT Open in Portugal 2016 was so sweet, I won't forget that one. But probably my best moment is the culmination of the bits off the course which show me the depth of respect and friendship that has been forged between the players, including those who have become good friends of mine now. That's what keeps us together as a team, motivating each other, celebrating each others successes and mercilessly slagging each others double bogeys!
+
+JB: Becoming Irish champion in 2018
+
+RL: There's been so many.  It's been a brilliant group to play alongside over the years.  I've loved some of the trips overseas - Capital Cup 2016, World Cup 2016, Celtic Manor 2018 to name a few - but the Irish Opens at Highfield, particularly CJs win in 2017 were something else. Gary flying the flag at the WC in 2016, Jimmy Barry in the final group of the UK Open in 2015 with his Precision Ball, and Gracey, Ste, Kev, and Cian Lucey going the distance with the best at the Irish Opens or internationally were all deadly to see, as you knew a fair bit of the journey's they'd all been on to get there. Winning the 2016 National Championship was huge personally.  12 months prior I just couldn't have put in that kind of consistency.  It probably took a few months for that to really sink in, just how much I'd come on to achieve that against top players.  More recently, I was buzzing to win the National Matchplay Championship 2018, as it was one of the best run comps ever in Ireland, and had so many twists and turns for the final WC spots that were on offer.  Winning any trophy out of those fields is tough going and this one has me keen to go again in 2019.
+
+---
+
+**JC: What in your opinion, separates the best from the rest?**
+
+RC: In no particular order:
+
+- Dedication
+- Understanding 
+- Mental focus
+- Practice, practice, practice
+
+GM: Mindset. The state I am in mentally going into a competition plays a huge part in how I perform. I think the players who are consistently up there performing at the very top are not there because they can kick a ball longer or are just more accurate. They are there because they visualise every shot, they think about every shot and then they execute what they want to do perfectly.
+
+CJ: Practice and desire. When Gary won his title, he had gone out and designed and opened his own footgolf course business. That takes serious desire and risk. When Ro Lynagh won, he went through more rounds that year than Conor McGregor. When I won my title, I couldn’t walk across my sitting room without “putting” a ball through the legs of a chair. And when Jimmy Barry won, no one came close to putting in as much time at the course as he did. There's always a culture of “No, I've barely kicked a ball since the last competition” but that’s nonsense. We should take pride in our desire to improve and deserve credit for it when we reap the rewards. That doesn't mean everyone wins a national title. Rewards and goals are all relative. I saw how much qualifying for the World Cup team meant to several new players this season. I've no doubt some of them will go on to become future Irish national champions with that desire and willingness to put the work in.
+
+JB: I believe 100% it’s the mental side of the game that separates the best.. I think a lot of players are already beaten before they start because they don’t believe in themselves enough.. 
+
+RL: Consistent exposure to top competitive environments, supportive teammates, and love of the game - especially when it's not going your way! Treating your game as a process, with skills you're developing over time and using competitions to consistently work on them.  There is nothing like a competition to really test you.  The National League was formative in bringing this group to international standard, but regular proper competition play is the purest training there is.  I've carried this learning into quite a few other areas of my life since - nothing beats getting up and doing it, then you can look back and learn.  The hits are harder - like crumbling at the Irish Open or missing the big putts - but over time the gains are big and worth it.  Kev Heelan got to so many European events before taking down the Portuguese Open - he was so single minded at that time it was inspirational. Cathal has played more European competitions that any Irishman, and his success in Northern Ireland and Ireland in 2017, as well as European podiums are testament to that level of commitment.  Gary was the most prepared and focused player in Ireland going over to the world cup - where many of us were still footballers playing footgolf, he and CJ were pushing the boundaries of what a footgolfer was in Ireland. Then having lads that you can talk about the round to after, or who have the strength of character to recognise the huge benefits in the overall quality of players in Ireland getting better, and not just focusing on themselves.  It's rare to compete with, and support a group in such equal measure. And I know how important that is separating the best players and teams from the rest. Finally, ya just love it enough to go back.  I've had lulls and dips and times when I wanted to pack it in, but they pass pretty quickly and I still love the buzz of a having to sink a long putt and testing myself against top courses and players.
+
+---
+
+**JC: As you all played in the last World Cup in Argentina, how about a little memorable moment from each of you.**
+
+RC: Day 1 of the World Cup, Ricky Lahart is waiting anxiously to tee off on the first. His name is called and I walk over to him, shake his hand and wish him the best of luck. I impart a few words of wisdom "Remember what we talked about, careful of that tree to the right on your tee off". He points to the middle of the fairway in the distance. "That's where she's going", he confidently declares. He steps up and absolutely leathers the ball into the tree. He looks back at me in the crowd and says, "I fu*king love this game".
+
+GM: I think my best moment answer covers this one.
+ 
+CJ: The bonds that formed at that World Cup have kept us together to this day. We made a video of the whole team doing keepy-uppys down the length of our bus after a 12 hour delay when we missed our flight in Madrid. That was some craic! The World Cup moments pass by fast. Take it in. Put down your phone. I was so disappointed last time that Ireland narrowly missed out on qualifying for the team event, I hope the guys get to experience that this time. There's nothing like that moment of stepping up on the first tee though, hearing your name announced and striking off sweetly down the fairway. That's a moment no one would ever forget. 
+
+JB: Getting to experience the quality of course that the top level of the game is been played at, it was unbelievable!
+
+RL: Ah so many! There was serious craic!  But also serious heartbreak too when it didn't happen out on the course. Small things stand out now - Aaron Connolly and Dan Redmond taking us for warm ups and stretches; the whole team in bits after playing an insane amount of warm up rounds; the nerves - the first few days were intense, but then going for a beer at the end of the day with the lads was a great grounder; playing pool in the  beautiful old Argentinian town of Pilar, missing our flight and playing keepy ups in Madrid airport, going on a Tinder date in Buenos Aires :) 
+
+JC: I think an Argentinian Tinder date is a good place to finish this piece!!!!
+
+---
+
+I hope you’ve enjoyed learning about the formative years of the game in Ireland and I’m sure you all recognise yourselves in the stories.
+Unfortunately I myself will not be in Morocco for the World Cup but a strong Irish team will be there to represent their country with pride.
+
+Good luck to all participants!
+
+
