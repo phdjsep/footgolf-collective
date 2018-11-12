@@ -17,6 +17,7 @@
     <a class="post-card-content-link" href="{{ .Permalink }}">
       <header class="post-card-header">
           <h2 class="post-card-title">{{.Title}}</h2>
+          <h3 class="post-full-author">TESTING!!</h3>
           <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
           {{if .Params.tags }}<span class="post-card-tags">{{ range $index, $tag := .Params.tags }}
           #{{$tag}} {{end}} </span>
